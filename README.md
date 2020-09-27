@@ -12,3 +12,19 @@ i.   1 means legitimate
 ii.  0 is suspicious
 
 iii. -1 is phishing
+
+## System Information: 
+
+```
+Python Version v3.6.9
+os Version Linux-4.19.112+-x86_64-with-Ubuntu-18.04-bionic
+processor x86_64
+```
+
+## Installed Packages
+
+```
+scikit-learn==0.22.2
+comet-ml==3.2.2
+pandas==1.0.5
+```
