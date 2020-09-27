@@ -65,3 +65,12 @@ pandas==1.0.5
 ### confusion matrix
 ![](images/confusion_matrix.JPG)
 
+### Roc Curve
+![](images/roc.JPG)
+
+### Feature Importance
+![](images/feature_importance.JPG)
+
+### Results
+![](images/model.JPG)
+
