@@ -1,4 +1,4 @@
-# phishing-detection
+# Phishing-Detection
 
 
 Phishing is a type of fraud in which the attacker attempts to learn sensitive information by sending emails or other communication channels as a legitimate entity or person, such as login credentials or account information.
