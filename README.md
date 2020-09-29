@@ -62,6 +62,9 @@ pandas==1.0.5
     accuracy                           0.97      3317
     
 ```
+
+![](images/model.JPG)
+
 ### confusion matrix
 ![](images/confusion_matrix.JPG)
 
@@ -71,6 +74,4 @@ pandas==1.0.5
 ### Feature Importance
 ![](images/feature_importance.JPG)
 
-### Results
-![](images/model.JPG)
 
